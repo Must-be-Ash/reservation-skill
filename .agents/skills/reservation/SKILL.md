@@ -76,7 +76,7 @@ Then continue to **Link Resy**.
 
 Only if `resy_linked: false`.
 
-Ask: *"What email should I use to link your Resy account?"* (If they don't have a Resy account, that's fine — the OTP flow creates one automatically.)
+Ask: *"What email is your **Resy.com** account under?"* (their existing Resy login, not a new email)
 
 ```bash
 npx awal@latest x402 pay 'https://agentres.dev/api/link-resy' -X POST -d '{"em_address":"user@resy.com"}' --json

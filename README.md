@@ -26,8 +26,6 @@ npx skills add Must-be-Ash/reservation-skill
    npx awal@latest balance
    ```
 
-4. **Resy account** — you need an existing [Resy.com](https://resy.com) account. The skill links it on first use.
-
 ## Usage
 
 Just say what you want:

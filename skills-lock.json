@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "reservation": {
+      "source": "Must-be-Ash/reservation-skill",
+      "sourceType": "github",
+      "computedHash": "c9b6bf0ef6f0b6afc1b421fa85a363f6e3228ee221ce690f1323498245eed3a0"
+    }
+  }
+}
