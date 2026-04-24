@@ -1,0 +1,17 @@
+{
+  "name": "must-be-ash",
+  "owner": {
+    "name": "Must-be-Ash",
+    "url": "https://github.com/Must-be-Ash"
+  },
+  "plugins": [
+    {
+      "name": "reservation",
+      "source": "./plugins/reservation",
+      "description": "Book restaurant reservations on Resy via agentres.dev using x402 USDC payments on Base from the awal agent wallet.",
+      "version": "0.1.0",
+      "category": "agents-and-skills",
+      "keywords": ["reservation", "restaurant", "resy", "booking", "x402", "awal", "base", "usdc", "agent-payments"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "reservation",
+  "version": "0.1.0",
+  "description": "Book restaurant reservations on Resy via agentres.dev using x402 USDC payments on Base from the awal agent wallet. Search restaurants, check availability, book tables, list and cancel reservations.",
+  "author": {
+    "name": "Must-be-Ash",
+    "url": "https://github.com/Must-be-Ash"
+  },
+  "homepage": "https://github.com/Must-be-Ash/reservation-skill",
+  "repository": "https://github.com/Must-be-Ash/reservation-skill",
+  "license": "MIT",
+  "keywords": ["reservation", "restaurant", "resy", "booking", "x402", "awal", "base", "usdc", "agent-payments"]
+}
